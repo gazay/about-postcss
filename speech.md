@@ -1,63 +1,65 @@
-Hi. My name is Andrey Sitnik. I am frontend developer in Evil Martians
-and author of Autoprefixer and PostCSS.
+Hi, my name is Andrey Sitnik. I am a front-end developer at a company called Evil Martians
+and the author of Autoprefixer and PostCSS. As a front-end in my company I've been behind the development of
+front-end of Groupon Russia (since the early days to the IPO), OnlineTours.ru and Amplifr.com, a social networking posting and analytics tool.
 
-How many people use Stylus?
+Let's make a quick poll to kick things off. How many people here do use Stylus? Please raise your hands, come on.
 Less?
 Sass?
 Autoprefixer?
 
-If you used Autoprefixer you may note, that it works not like Compass, Bourbon
-or any other mixins library. It has no mixins at all. You just write selectors
-and properties and it just works, like a magic.
+If you've used Autoprefixer, you may already know that it does not work the same way Compass, Bourbon
+or any other mixins library does. It has no mixins at all. You just write selectors
+and properties and it just works — like magic.
 
-It is because Autoprefixer is only a tip of the iceberg of entire new way
-to process you CSS. Autoprefixer is just a plugin for PostCSS, tool to extend
+This is because Autoprefixer is only a tip of the iceberg of an entirely new way
+to process your CSS. In fact, Autoprefixer is just a plugin for PostCSS, a tool to extend
 or even replace CSS preprocessors.
 
 ---
 
-We will start theory. Why we even need to compile our CSS?
-Next I will tell why preprocessors did not solve our odern problems.
-Next I will show how PostCSS works and how it differs from preprocessors.
-And then I show a entire new things, that become possible only because
-postprocessors. And does PostCSS is ready for producation usage.
+Let's start with a bit of theory. Why do we even need to compile our CSS?
+After that I will tell why preprocessors don't solve current web development problems.
+Next I will show how PostCSS works and how is it different from using a preprocessor.
+And then I'll show some things that are entirely new in the field and became possible
+only thanks to the introduction of postprocessors.
+And we'll also see if PostCSS is stable enough for production usage.
 
 ---
 
-So, first section. What ideas is behind PostCSS.
+So, first things first. What ideas are behind PostCSS?
 
 ---
 
-My scientific work was about genetics algorithms. I belive that every long-term
-development is based on evolution. We have a great example of biogically
-evolution in nature. We use artificial evolution in our computer science.
-And of course you heard about mems, theory that even human ideas is a part
-of same evolution process.
+My graduation work at a university was regarding genetic algorithms.
+I do actually believe that every long-term development is based on evolution.
+We have a great example of biological evolution in nature. We use artificial evolution in our computer science.
+And of course you've heard about memes, internet memes — there is even a theory that every popular human idea is a part
+of the same evolution process.
 
-At least, it is a only long-term optimization process, that mankind knows today.
+At least, it is only a long-term optimization process that mankind knows today.
 
 Evolution is based on three steps. Random mutation. Natural selection
-in the wild. And best result inheritance.
+in the wild. And inheritance of the best results.
 
-But does we have this steps in browsers specification process? Of course,
-we had a lot of inheritance. A lot of legacy code and specifications.
-
----
-
-But does we had a selection? Mozilla was forced to support blink tag
-for 19 years. It was non-standard tag working only in Firefox.
+Do these steps really apply in browser specification process? Of course,
+we have a lot of inheritance. And lots of legacy code and specifications.
 
 ---
 
-Will you afraid a mistakes, if you will support them for a decades?
+But do we really have the selection step? Mozilla was forced to support blink tag
+for 19 years. It was a non-standard tag working in Firefox only.
+
+---
+
+Are you afraid to make a mistake, if you will have to support the decision for a decade?
 Can
 
 TODO
 
 ---
 
-That’s all. You can fint project and github-com-slash-postcss-slash-postcss.
-Here is keynotes with all link. Here is our Twitter.
+That’s all for now. You can find the project on GitHub.
+You can follow development news on Twitter. And check out the site of my company.
 
 Now it is time for your questions.
-For every question you will receive small Russian candy. Like this.
+Please don't hesitate since for every question you ask you will receive a small Russian candy — like this.
