@@ -1,6 +1,7 @@
 Hi, my name is Andrey Sitnik. I am a front-end developer at a company called Evil Martians
 and the author of Autoprefixer and PostCSS. As a front-end in my company I've been behind the development of
-front-end of Groupon Russia (since the early days to the IPO), OnlineTours.ru and Amplifr.com, a social networking posting and analytics tool.
+front-end of Groupon Russia (since the early days to the IPO), eBay Social, a social marketplace we've done for eBay,
+Rocketbank, a "Russian version" of Bank Simple. Most of the time I work on Amplifr.com, a social networking posting and analytics tool.
 
 Let's make a quick poll to kick things off. How many people here do use Stylus? Please raise your hands, come on.
 Less?
@@ -33,7 +34,7 @@ So, first things first. What ideas are behind PostCSS?
 My graduation work at a university was regarding genetic algorithms.
 I do actually believe that every long-term development is based on evolution.
 We have a great example of biological evolution in nature. We use artificial evolution in our computer science.
-And of course you've heard about memes, internet memes — there is even a theory that every popular human idea is a part
+And of course you've heard about memetics — there is even a theory that every popular human idea is a part
 of the same evolution process.
 
 At least, it is only a long-term optimization process that mankind knows today.
